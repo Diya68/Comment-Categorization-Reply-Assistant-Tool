@@ -21,9 +21,9 @@ The tool must sort comments into buckets so that the team can:
 - Provide answers where needed
 
 - # Tech Stacks
-Language: Python
-Libraries: scikit-learn, pandas, nltk/spaCy, HuggingFace Transformers
-UI (Optional): Streamlit / Flask / Gradio
-Model: Logistic Regression, SVM, or BERT
-Extras: Matplotlib/seaborn for visuals, OpenAI API for reply suggestions (if available)
+- Language: Python
+- Libraries: scikit-learn, pandas, nltk/spaCy, HuggingFace Transformers
+- UI (Optional): Streamlit / Flask / Gradio
+- Model: Logistic Regression, SVM, or BERT
+- Extras: Matplotlib/seaborn for visuals, OpenAI API for reply suggestions (if available)
 
