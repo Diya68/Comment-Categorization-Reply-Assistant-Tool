@@ -120,6 +120,23 @@ The UI title is 🐼 Comment Categorization & Reply Assistant 🐼.
 <img width="1920" height="901" alt="image" src="https://github.com/user-attachments/assets/c7bbb842-6a39-4b3d-934b-15060343bf8d" />
 
 
+# Future Improvements
+
+- The project currently uses a basic Logistic Regression model with TF-IDF features. Here are several opportunities for future development:
+
+- Expand Category Scope: Introduce more nuanced categories like "Feature Request," "Bug Report," and "Off-Topic Discussion."
+
+- Multilingual Support: Integrate a language detection step and train models capable of categorizing comments in multiple languages (e.g., Spanish, French) to broaden the tool's applicability.
+
+- Advanced Model Architecture: Migrate from Logistic Regression to deep learning models (e.g., using a pre-trained transformer model like BERT or RoBERTa) for potentially higher accuracy and better handling of context.
+
+- Deployment Optimization: Optimize the model size and deployment package to allow for faster inference times and easier deployment to platforms like Hugging Face Spaces or a serverless function.
+
+- Feedback Loop Integration: Implement a way for users to provide feedback on classification errors, allowing the model to be continuously re-trained and improved based on real-world use.
+
+- Sentiment and Urgency Scoring: Add an additional output layer to the model to provide a separate sentiment score (positive/negative) and an urgency score, which is critical for prioritizing replies to threats or bug reports.
+
+
 
 
 
