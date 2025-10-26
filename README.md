@@ -111,3 +111,15 @@ Suggested Reply (Output Textbox)
 Provides a pre-written, appropriate reply based on the predicted category.
 
 The UI title is 🐼 Comment Categorization & Reply Assistant 🐼.
+
+# Sample Results
+
+<img width="1920" height="900" alt="image" src="https://github.com/user-attachments/assets/48759be8-82c7-4d7d-9d7a-1dbfa73db983" />
+<img width="1920" height="906" alt="image" src="https://github.com/user-attachments/assets/ae393c1f-aaaa-4f33-b896-68daeb362243" />
+<img width="1920" height="902" alt="image" src="https://github.com/user-attachments/assets/da16e151-b02d-4bda-9468-8dea6602625d" />
+<img width="1920" height="901" alt="image" src="https://github.com/user-attachments/assets/c7bbb842-6a39-4b3d-934b-15060343bf8d" />
+
+
+
+
+
